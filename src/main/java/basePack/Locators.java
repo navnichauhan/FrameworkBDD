@@ -42,7 +42,7 @@ public class Locators{
 	
 	/*<--Create User Account-->*/
 	
-	//public static String createacc="//button[@class='action submit primary']/span";
+	public static String createacc="//button[@class='action submit primary']/span";
 	
 	
 
